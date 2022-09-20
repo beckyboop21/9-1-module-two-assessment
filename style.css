@@ -1,0 +1,22 @@
+body {
+    background-color: lavender;
+    font-family: monospace;
+}
+
+img {
+    height: 150px;
+
+}
+
+header {
+    width: 75%;
+    background-color: skyblue;
+
+}
+
+h1 {
+    text-align: right;
+}
+.hiddenDescription, .hiddenPerson {
+    display: none;
+}
